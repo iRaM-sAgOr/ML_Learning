@@ -1,0 +1,3 @@
+https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e
+there are three types of feature selection technique:
+1. Univariate Selection:
